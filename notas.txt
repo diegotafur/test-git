@@ -1,0 +1,6 @@
+1) git init : Sirve para inciaor el repositorio
+
+2) git status -s : sirve para que esta pasando en el repositorio
+
+
+3) git add . : con estos scanea todos los archivos 
