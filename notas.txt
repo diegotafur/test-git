@@ -23,3 +23,21 @@
 11*) git push -u origin main : para subir
 
 12) git push : directo cuando ya esta vinculado
+
+
+// Para clonar un proeycto 
+
+13) gti clone urlProject : sirve para clonar todo le proyecti 
+
+//Ignorar archivos
+
+14) git ignore : crear archivo .gitignore y dentro colocar los archivos que se van ignorar hast que se ponga gris
+
+
+// Viajar en el tiempo con git 
+
+15) git checkout  : si queremos visitar un commit en especifico captuar el id del commit
+
+16) git revert 
+
+17) git reset 
