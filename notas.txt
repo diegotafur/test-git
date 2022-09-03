@@ -46,3 +46,8 @@ ojo) git branch -m master main : para renombar rama
 16) git revert :
 
 17) git reset : vijar al commit objetivo , tomar ne cuenta que se peirde todos los commit
+
+
+
+
+git push --set-upstream origin 01-rama
