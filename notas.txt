@@ -1,3 +1,6 @@
+0) git config --global init.defaultBranch main  : para por defecto dejar en main la rsama principal
+
+
 1) git init : Sirve para inciaor el repositorio
 
 2) git status -s : sirve para que esta pasando en el repositorio
@@ -20,6 +23,8 @@
 
 10*) git branch -M main   : con la rama configurada
 
+ojo) git branch -m master main : para renombar rama 
+
 11*) git push -u origin main : para subir
 
 12) git push : directo cuando ya esta vinculado
@@ -38,6 +43,6 @@
 
 15) git checkout  : si queremos visitar un commit en especifico captuar el id del commit
 
-16) git revert 
+16) git revert :
 
-17) git reset 
+17) git reset : vijar al commit objetivo , tomar ne cuenta que se peirde todos los commit
