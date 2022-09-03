@@ -16,8 +16,10 @@
 
 8) git config user.name   : para ver le usuario
 
-9) git remote add origin https://github.com/diegotafur/test-git.git : voncula git con tu remoto
+9*) git remote add origin https://github.com/diegotafur/test-git.git : voncula git con tu remoto
 
-10) git branch -M main   : con la rama configurada
+10*) git branch -M main   : con la rama configurada
 
-11) git push -u origin main : para subir
+11*) git push -u origin main : para subir
+
+12) git push : directo cuando ya esta vinculado
