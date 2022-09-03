@@ -4,3 +4,20 @@
 
 
 3) git add . : con estos scanea todos los archivos 
+
+4) git commit -m "primer comentario" : con este comando se hace el comit
+
+5) git log --oneline : muestra el log
+
+
+6) git config --global user.name "" : poner usuario 
+
+7) git config --global user.email "" : 
+
+8) git config user.name   : para ver le usuario
+
+9) git remote add origin https://github.com/diegotafur/test-git.git : voncula git con tu remoto
+
+10) git branch -M main   : con la rama configurada
+
+11) git push -u origin main : para subir
